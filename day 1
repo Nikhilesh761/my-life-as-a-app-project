@@ -1,3 +1,11 @@
 git init
 git add .
 git commit -m "Day 1: ✅ App created, Firebase config added"
+
+[✅] VS Code installed & set up  
+[✅] Node.js installed  
+[✅] `npm create vite...` succeeded  
+[✅] App runs at localhost:5173  
+[✅] Firebase project created (free)  
+[✅] firebase.ts config filled  
+[✅] First Git commit made  
